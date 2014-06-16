@@ -1,0 +1,7 @@
+parameters:
+#    xidea_notification.example.class: Xidea\Bundle\NotificationBundle\Example
+
+services:
+#    xidea_notification.example:
+#        class: %xidea_notification.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,3 @@
+xidea_notification_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: XideaNotificationBundle:Default:index }
